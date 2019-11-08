@@ -1,0 +1,71 @@
+location,location(local),Rottingdean,Queen,St_Peter,Central,Preston,renovation,top_floor,ground_floor,parking_space,extra_bathroom,balcony,garden,sq_meters,price,price/sqm
+Brighton,Rottingdean coastal ,1,0,0,0,0,0,0,0,1,1,0,0,64.3,299950,4664.852255
+Brighton,Rottingdean coastal ,1,0,0,0,0,0,0,0,0,0,1,0,65.8,259950,3950.607903
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,1,0,1,1,1,0,65,340000,5230.769231
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,1,0,1,1,1,0,67,365000,5447.761194
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,0,0,1,1,1,0,75,400000,5333.333333
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,0,1,1,1,0,0,60.5,360000,5950.413223
+Brighton,Rottingdean coastal ,1,0,0,0,0,0,1,0,1,1,1,0,60,285000,4750
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,0,0,1,1,1,0,61.3,335000,5464.926591
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,1,0,1,0,0,1,75,435000,5800
+Brighton,Rottingdean coastal ,1,0,0,0,0,1,0,0,1,1,1,0,60.5,355000,5867.768595
+Brighton,Queen's park,0,1,0,0,0,1,0,0,0,1,0,0,51,350000,6862.745098
+Brighton,Queen's park,0,1,0,0,0,0,0,1,0,0,0,1,50,275000,5500
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,1,1,0,64.5,250000,3875.968992
+Brighton,Queen's park,0,1,0,0,0,1,1,0,1,0,0,0,60,345950,5765.833333
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,1,1,0,61.37,275000,4481.016783
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,0,0,0,51,299950,5881.372549
+Brighton,Queen's park,0,1,0,0,0,0,1,0,0,0,0,0,66.8,275000,4116.766467
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,0,1,0,70,270000,3857.142857
+Brighton,Queen's park,0,1,0,0,0,1,0,0,0,0,1,0,68,350000,5147.058824
+Brighton,Queen's park,0,1,0,0,0,0,1,0,0,0,1,1,68.38,425000,6215.267622
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,0,0,0,50,260000,5200
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,0,1,0,72,285000,3958.333333
+Brighton,Queen's park,0,1,0,0,0,0,0,0,1,0,1,0,62.9,325000,5166.931638
+Brighton,Queen's park,0,1,0,0,0,1,1,0,0,0,0,0,59.8,345950,5785.117057
+Brighton,Queen's park,0,1,0,0,0,0,0,0,0,0,0,0,52,270000,5192.307692
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,0,0,1,1,1,62.11,280000,4508.130736
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,1,0,0,0,0,0,64.9,325000,5007.70416
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,1,0,0,0,0,0,67,375000,5597.014925
+Brighton,St Peter's and North Lane,0,0,1,0,0,1,0,0,1,1,1,1,75,475000,6333.333333
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,1,0,0,0,1,0,75,360000,4800
+Brighton,St Peter's and North Lane,0,0,1,0,0,1,0,0,0,1,0,0,79,400000,5063.291139
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,0,1,0,0,0,50,330000,6600
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,1,1,0,0,0,50,299950,5999
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,0,0,0,1,0,56,375000,6696.428571
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,1,0,0,0,1,59,325000,5508.474576
+Brighton,St Peter's and North Lane,0,0,1,0,0,1,0,0,0,1,0,1,66.8,450000,6736.526946
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,1,0,0,1,1,75.5,285000,3774.834437
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,0,1,0,0,0,0,50,295000,5900
+Brighton,St Peter's and North Lane,0,0,1,0,0,1,0,1,0,1,0,0,67.7,325000,4800.590842
+Brighton,St Peter's and North Lane,0,0,1,0,0,0,1,0,0,1,0,0,62.3,350000,5617.977528
+Brighton,Central Hove ,0,0,0,1,0,1,0,1,0,0,0,1,68,350000,5147.058824
+Brighton,Central Hove ,0,0,0,1,0,0,0,0,1,1,1,0,70.79,300000,4237.886707
+Brighton,Central Hove ,0,0,0,1,0,0,0,0,1,0,0,0,65,285000,4384.615385
+Brighton,Central Hove ,0,0,0,1,0,0,1,0,1,1,1,0,68.9,345000,5007.256894
+Brighton,Central Hove ,0,0,0,1,0,0,0,1,0,1,0,1,60.5,475000,7851.239669
+Brighton,Central Hove ,0,0,0,1,0,0,0,0,0,1,1,1,62.1,325000,5233.494364
+Brighton,Central Hove ,0,0,0,1,0,1,0,0,0,1,1,1,57.6,399950,6943.576389
+Brighton,Central Hove ,0,0,0,1,0,1,1,0,0,0,1,0,70.2,500000,7122.507123
+Brighton,Central Hove ,0,0,0,1,0,1,0,0,1,0,0,0,77,395000,5129.87013
+Brighton,Central Hove ,0,0,0,1,0,0,0,0,0,0,0,0,74,325000,4391.891892
+Brighton,Central Hove ,0,0,0,1,0,1,0,1,1,0,0,1,69.4,400000,5763.688761
+Brighton,Central Hove ,0,0,0,1,0,0,0,0,0,0,0,0,59.9,325000,5425.709516
+Brighton,Central Hove ,0,0,0,1,0,0,0,0,1,0,0,0,58,300000,5172.413793
+Brighton,Central Hove ,0,0,0,1,0,0,0,1,1,1,1,0,80,400000,5000
+Brighton,Central Hove ,0,0,0,1,0,1,0,0,0,0,0,1,65.57,350000,5337.806924
+Brighton,Preston Park,0,0,0,0,1,0,0,0,0,1,1,0,77,300000,3896.103896
+Brighton,Preston Park,0,0,0,0,1,1,0,0,1,0,0,0,49,275000,5612.244898
+Brighton,Preston Park,0,0,0,0,1,0,0,0,1,0,0,0,60.2,260000,4318.936877
+Brighton,Preston Park,0,0,0,0,1,0,0,1,1,0,0,0,62,260000,4193.548387
+Brighton,Preston Park,0,0,0,0,1,0,0,0,1,0,0,0,52,250000,4807.692308
+Brighton,Preston Park,0,0,0,0,1,1,0,1,0,1,0,1,75.5,325000,4304.635762
+Brighton,Preston Park,0,0,0,0,1,1,1,0,1,0,1,1,65.11,325000,4991.552757
+Brighton,Preston Park,0,0,0,0,1,0,1,0,0,0,0,1,77,350000,4545.454545
+Brighton,Preston Park,0,0,0,0,1,0,1,0,0,0,0,1,78,290000,3717.948718
+Brighton,Preston Park,0,0,0,0,1,1,1,0,1,0,1,0,75,300000,4000
+Brighton,Preston Park,0,0,0,0,1,0,0,1,0,0,0,1,57.4,300000,5226.480836
+Brighton,Preston Park,0,0,0,0,1,1,0,1,0,0,0,1,80,424950,5311.875
+Brighton,Preston Park,0,0,0,0,1,0,0,1,0,1,0,1,58.26,280000,4806.041881
+Brighton,Preston Park,0,0,0,0,1,0,0,1,0,0,0,1,68.3,260000,3806.734993
+Brighton,Preston Park,0,0,0,0,1,1,1,0,0,1,0,0,80,375000,4687.5

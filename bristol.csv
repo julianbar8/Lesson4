@@ -1,0 +1,84 @@
+location,location(local),Redland,Hotwells,Lawrence,Ashley,Avonmouth,renovation,top_floor,ground_floor,parking_space,extra_bathroom,balcony,garden,sq_meters,price,price/sqm
+Bristol ,Redland,1,0,0,0,0,0,0,0,1,0,0,0,58.9,260000,4414.26146
+Bristol ,Redland,1,0,0,0,0,1,0,1,0,0,0,1,61,350000,5737.704918
+Bristol ,Redland,1,0,0,0,0,0,1,0,0,0,0,0,77,280000,3636.363636
+Bristol ,Redland,1,0,0,0,0,0,0,1,0,1,0,1,60,310000,5166.666667
+Bristol ,Redland,1,0,0,0,0,1,0,0,1,0,0,0,50,340000,6800
+Bristol ,Redland,1,0,0,0,0,1,0,1,0,0,0,1,70.3,387500,5512.091038
+Bristol ,Redland,1,0,0,0,0,0,1,0,0,0,0,0,68.9,300000,4354.13643
+Bristol ,Redland,1,0,0,0,0,0,0,0,0,1,0,0,51,300000,5882.352941
+Bristol ,Redland,1,0,0,0,0,1,0,0,0,0,0,0,72,345000,4791.666667
+Bristol ,Redland,1,0,0,0,0,1,0,1,1,0,0,1,74,335000,4527.027027
+Bristol ,Redland,1,0,0,0,0,1,1,0,0,0,0,0,72.3,275000,3803.596127
+Bristol ,Redland,1,0,0,0,0,0,0,0,0,0,0,0,51.9,259950,5008.67052
+Bristol ,Redland,1,0,0,0,0,1,0,1,0,0,0,1,55.5,325000,5855.855856
+Bristol ,Redland,1,0,0,0,0,0,0,1,1,0,0,0,71,375000,5281.690141
+Bristol ,Redland,1,0,0,0,0,0,0,0,1,0,0,0,50,310000,6200
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,1,0,0,0,1,0,75,320000,4266.666667
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,0,0,1,1,0,1,75.63,395000,5222.795187
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,1,0,1,0,1,1,76.8,334500,4355.46875
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,0,0,0,1,0,1,1,73.8,310000,4200.542005
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,0,0,0,1,0,1,0,60,325000,5416.666667
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,0,0,1,0,1,1,0,82,300000,3658.536585
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,0,0,1,1,0,1,60,435000,7250
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,0,1,1,1,1,1,80,415000,5187.5
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,0,0,0,0,0,0,0,58.7,220000,3747.870528
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,0,0,1,1,0,0,76,330000,4342.105263
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,0,0,0,1,1,0,0,77.5,335000,4322.580645
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,0,0,0,1,1,0,1,68,335000,4926.470588
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,1,0,1,1,0,0,82,470000,5731.707317
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,0,0,1,1,1,0,75,375000,5000
+Bristol ,Hotwells and Harbourside,0,1,0,0,0,1,1,0,1,0,0,0,74,335000,4527.027027
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,1,1,0,0,1,64.1,275000,4290.171607
+Bristol ,Lawrence Hill,0,0,1,0,0,0,0,1,0,1,0,1,59.1,210000,3553.299492
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,0,0,1,1,0,66,280000,4242.424242
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,0,0,1,1,0,62.6,290000,4632.587859
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,0,0,1,0,0,67.32,310000,4604.872252
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,1,0,0,0,1,55,215000,3909.090909
+Bristol ,Lawrence Hill,0,0,1,0,0,0,1,0,0,0,0,1,74,210000,2837.837838
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,0,0,0,0,0,61.5,235000,3821.138211
+Bristol ,Lawrence Hill,0,0,1,0,0,0,0,0,0,0,0,0,50,150000,3000
+Bristol ,Lawrence Hill,0,0,1,0,0,0,0,0,0,0,1,0,56,190000,3392.857143
+Bristol ,Lawrence Hill,0,0,1,0,0,1,1,0,1,1,1,0,67.1,365000,5439.642325
+Bristol ,Lawrence Hill,0,0,1,0,0,1,0,0,1,0,0,0,55.2,280000,5072.463768
+Bristol ,Lawrence Hill,0,0,1,0,0,0,0,0,1,1,0,0,52,240000,4615.384615
+Bristol ,Lawrence Hill,0,0,1,0,0,0,0,0,1,1,0,0,63,245000,3888.888889
+Bristol ,Lawrence Hill,0,0,1,0,0,1,1,0,0,1,1,0,59,255000,4322.033898
+Bristol ,Ashley,0,0,0,1,0,1,0,0,0,0,0,0,52.6,175000,3326.996198
+Bristol ,Ashley,0,0,0,1,0,0,0,1,1,0,0,1,56,235000,4196.428571
+Bristol ,Ashley,0,0,0,1,0,1,0,1,0,1,0,1,71,300000,4225.352113
+Bristol ,Ashley,0,0,0,1,0,1,0,0,1,1,0,0,50,279000,5580
+Bristol ,Ashley,0,0,0,1,0,1,0,1,1,1,0,0,75.5,375000,4966.887417
+Bristol ,Ashley,0,0,0,1,0,1,0,0,1,1,0,0,66.6,285000,4279.279279
+Bristol ,Ashley,0,0,0,1,0,0,0,1,1,1,0,1,62.5,265000,4240
+Bristol ,Ashley,0,0,0,1,0,1,0,0,1,1,1,0,65.5,280000,4274.80916
+Bristol ,Ashley,0,0,0,1,0,1,0,0,1,0,1,0,52,250000,4807.692308
+Bristol ,Ashley,0,0,0,1,0,1,0,0,1,0,1,0,61,250000,4098.360656
+Bristol ,Ashley,0,0,0,1,0,1,0,1,0,0,0,0,65.2,295000,4524.539877
+Bristol ,Ashley,0,0,0,1,0,1,0,0,0,0,1,0,67.82,325000,4792.096727
+Bristol ,Ashley,0,0,0,1,0,1,0,0,1,0,1,0,58,250000,4310.344828
+Bristol ,Ashley,0,0,0,1,0,1,0,0,0,0,1,0,58.3,250000,4288.164666
+Bristol ,Ashley,0,0,0,1,0,1,0,0,0,0,1,0,56.5,250000,4424.778761
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,1,0,1,1,0,0,51,190000,3725.490196
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,0,1,1,1,1,50,188000,3760
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,1,1,1,0,1,50,192500,3850
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,1,1,0,1,0,1,0,50,195000,3900
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,1,1,1,0,1,60.4,215000,3559.602649
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,1,0,1,0,0,1,65.6,220000,3353.658537
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,1,0,0,0,0,1,56.2,160000,2846.975089
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,1,1,0,0,1,56.1,157500,2807.486631
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,1,0,1,0,0,1,63.9,180000,2816.901408
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,1,0,1,1,1,0,1,70.2,329000,4686.609687
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,1,1,0,0,1,59,215000,3644.067797
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,0,1,0,0,1,67,230000,3432.835821
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,1,0,1,1,1,0,1,75.5,260000,3443.708609
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,0,1,0,1,1,75.4,235000,3116.710875
+Bristol ,Avonmouth and Lawrence Weston,0,0,0,0,1,0,0,1,1,0,0,1,64.3,215000,3343.7014
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

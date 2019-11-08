@@ -1,0 +1,93 @@
+import csv
+import pandas as pd
+
+with open ('brighton.csv',newline ='') as csvfile:
+    csvreader = csv.reader(csvfile,delimiter = ',')
+
+#Q1
+# before starting the counting in the for loop, the values for males and females are zero
+
+#     garden = 0
+#     nogarden = 0
+#
+#     for row in csvreader:
+#
+#         if row[13] == '1':
+#             garden += 1  # this counts the number of garden
+#         elif row[13] == '0':
+#             nogarden += 1  # this counts the number of no garden
+# print("There are", garden, "flats with garden in our dataset")
+# print("There are", nogarden, "flats without garden in our dataset")
+
+
+#Q2
+
+df = pd.read_csv('brighton.csv')
+
+#print(df)
+
+#print(df.head(3))
+#print(df.tail(3))
+
+
+##Reading headers
+#print(df.columns)
+
+## Reading specific column - for example price of flats
+
+#print(df['price'])
+#print(df['price'][0:5])  #top five rows
+#print(df[['price','location','price/sqm']]) #3 selected columns
+
+##Reading each row
+#print(df.iloc[1]) # display first row
+#print(df.iloc[1:4]) # display first 4 rows
+
+##read specific location
+
+#print(df.iloc[2,1]) # diplay position in table row 2 column 1
+
+## for loop that goes through each row
+# for index, row in df.iterrows():
+#     print(index,row)
+
+## this gives the price
+#for index, row in df.iterrows():
+ #   print(index,row['price'])
+
+# print(df.loc[df['balcony'] == '1']) ##doesnt workkk
+
+##Q2 descriptive stats and sorting out values
+#print(df.describe())
+
+#print(df.sort_values('sq_meters'))
+
+df = df.drop(columns=['Rottingdean','Preston','Queen','St_Peter','Central','location'])
+
+#print(df.columns)
+
+print(df)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
